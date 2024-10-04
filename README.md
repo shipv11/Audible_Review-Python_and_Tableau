@@ -35,3 +35,5 @@ During data cleaning, I did the following steps:
 - Chinese books were by far both the lengthiest and most expensive.
 - The most common ratings were 4 and 5.
 - Urdu books were the highest rated of all languages.
+
+![](https://github.com/shipv11/Audible_Review-Python_and_Tableau/blob/main/Screenshot%202024-09-24%20135923.png)
