@@ -9,6 +9,8 @@ During data cleaning, I did the following steps:
 -	Cleaned and converted price column to numeric
 -	Formatted the author and narrator columns to display names properly with spaces between the first and last names.
 
+  ![](https://github.com/shipv11/Audible_Review-Python_and_Tableau/blob/main/Screenshot%202024-10-05%20230745.png)
+
 ## Analysis and Visualization in Tableau
 
 -	Loaded the cleaned csv in Tableau
